@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nolan Olhausen",
+  "description": "Discord bot created with Discord.js (A Node.js module)",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "https": "^1.0.0",
+    "sharp": "^0.33.4"
+  },
+  "devDependencies": {
+    "eslint": "^9.4.0"
+  }
+}
