@@ -17,6 +17,6 @@ A Discord bot that interacts with a locally run Stable Diffusion API to generate
 
 ## Demo
 
-<img src="https://github.com/Nolan-Olhausen/Stable-Diffusion-Discord-Bot/blob/main/Screen%20Recording%202024-12-30%20183203.gif?raw=true" width="500" height="700" />
+<img src="https://github.com/Nolan-Olhausen/Stable-Diffusion-Discord-Bot/blob/main/Screen%20Recording%202024-12-30%20183203.gif?raw=true" width="450" height="600" />
 
 ---
